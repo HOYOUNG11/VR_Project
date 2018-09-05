@@ -1,0 +1,68 @@
+
+
+## Widgets #
+
+## Layout #
+
+## Popups & Modal windows #
+
+## Columns #
+
+## Filtering #
+
+## Inputs & Focus #
+[ ] io.MouseDrawCursor (?)
+WantCaptureMouse: 1
+WantCaptureKeyboard: 1
+WantTextInput: 0
+WantMoveMouse: 0
+> Keyboard & Mouse State
+    Mouse pos: (455, 247)
+    Mouse down:
+    Mouse clicked:
+    Mouse dbl-clicked:
+    Mouse released: b0
+    Mouse wheel: 0.0
+    Keys down:
+    Keys pressed:
+    Keys release:
+    Keys mods: 
+    Hovering me sets the
+    keyboard capture flag Holding me clears the
+    the keyboard capture flag
+> Tabbing
+    Use TAB/SHIFT+TAB to cycle through keyboard editable fields.
+    dummy 1
+    dummy 2
+    dummy 3
+    dummy 4 (tab skip)
+    dummy 5
+> Focus from code
+    Focus on 1 Focus on 2 Focus on 3
+    click on a button to set focus 1
+    click on a button to set focus 2
+    click on a button to set focus 3 (tab skip)
+    Item with focus: <none>
+    Cursor & selection are preserved when refocusing last used item in code.
+> Hovering
+    IsWindowHovered() = 1
+    IsWindowHovered(_AllowWhenBlockedByPopup) = 1
+    IsWindowHovered(_AllowWhenBlockedByActiveItem) = 1
+    ITEM
+    IsItemHovered() = 0
+    IsItemHovered(_AllowWhenBlockedByPopup) = 0
+    IsItemHovered(_AllowWhenBlockedByActiveItem) = 0
+    IsItemHovered(_AllowWhenOverlapped) = 0
+    IsItemhovered(_RectOnly) = 0
+> Dragging
+    You can use ImGui::GetMouseDragDelta(0) to query for the dragged amount on any widget.
+    Drag Me
+> Mouse cursors
+    Hover to see mouse cursors: (?)
+    Mouse cursor 0
+    Mouse cursor 1
+    Mouse cursor 2
+    Mouse cursor 3
+    Mouse cursor 4
+    Mouse cursor 5
+    Mouse cursor 6
